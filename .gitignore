@@ -2,3 +2,9 @@
 elm-stuff
 # elm-repl generated files
 repl-temp-*
+
+tests/VerifyExamples
+dist
+node_modules
+logs
+*.zip
